@@ -1,0 +1,22 @@
+* Se modifico la base de datos(Se agregan otros SP)
+
+Se tiene:
+- Estructura logica del proyecto
+- Salida al publico
+- Sesiones
+- Acciones de Actividades (Lista, Agrega, elimina, actualiza)
+- Bitacora completa
+- Detalles de validaciones y accesibilidad (fecha de salida)
+
+Hay que hacerlo:
+- Mejorar la validacion de sesion
+- Cifrar la contraseña
+- Acciones del usuario 
+		(Hacer pagina Agrega, Hacer pagina elimina, Hacer pagina actualiza)
+- Acciones de la categoria
+		(Hacer pagina Agrega, Hacer pagina elimina, Hacer pagina actualiza)
+- Acciones del facilitador
+		(Hacer pagina Agrega, Hacer pagina elimina, Hacer pagina actualiza)
+- Añadir Javascript
+- Utilizar la tabla administrador_actividad
+- Estudiar el contenido de la funcionalidad
